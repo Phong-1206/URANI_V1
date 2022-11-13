@@ -1,2 +1,2 @@
-# URAIN_V1
+# URAIN
 Xem lệnh chạy tại run.txt nhé.....
